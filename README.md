@@ -23,7 +23,7 @@
 
 ### 🔗 Profiles
 - **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/singhaadarsh330  
-- **LinkedIn:** https://www.linkedin.com/in/aadarsh-singh-b51590324/
+- **LinkedIn:** www.linkedin.com/in/singh-aadarsh330
 
 ---
 
