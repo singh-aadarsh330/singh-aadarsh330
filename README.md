@@ -2,7 +2,7 @@
 
 🎓 CSE Undergraduate at KIIT University  
 💻 Focused on Data Structures & Algorithms using Java  
-🚀 Building strong problem-solving skills for software engineering roles  
+🚀 Building strong problem-solving fundamentals for software engineering roles  
 
 ---
 
@@ -23,8 +23,9 @@
 
 ### 🔗 Profiles
 - **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/singhaadarsh330  
+- **LinkedIn:** https://www.linkedin.com/in/aadarsh-singh-b51590324/
 
 ---
 
 ### 📌 Current Objective
-Actively seeking internship opportunities to strengthen core computer science fundamentals and gain hands-on software development experience.
+Seeking internship opportunities to strengthen core computer science concepts and gain practical software development experience.
