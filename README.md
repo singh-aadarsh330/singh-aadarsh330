@@ -1,5 +1,30 @@
-Hi! I'm Aadarsh, a tech enthusiast. Student with a strong focus on coding and problem-solving.
-I thrive in fast-paced environments and am skilled at managing multiple projects simultaneously.
-I'm eager to take on new challenges that will allow me to apply my technical skills while supporting team objectives.
-I'm looking for opportunities to deepen my knowledge and gain practical experience in software development.
-I'm curreantly looking for internships to gain work experience
+## Hi, I'm Aadarsh 👋
+
+🎓 CSE Undergraduate at KIIT University  
+💻 Focused on Data Structures & Algorithms using Java  
+🚀 Building strong problem-solving skills for software engineering roles  
+
+---
+
+### 🧠 DSA Practice
+- Solved **180+ problems** on GeeksforGeeks  
+- Strong emphasis on **Easy & Medium** level problems  
+- Gradually exploring **Hard** problems  
+- Practicing consistently with a long-term mindset  
+
+---
+
+### 🔧 Skills
+- **Programming Language:** Java  
+- **Core CS:** Data Structures & Algorithms  
+- **Web (Learning):** HTML, CSS  
+
+---
+
+### 🔗 Profiles
+- **GeeksforGeeks:** https://www.geeksforgeeks.org/profile/singhaadarsh330  
+
+---
+
+### 📌 Current Objective
+Actively seeking internship opportunities to strengthen core computer science fundamentals and gain hands-on software development experience.
