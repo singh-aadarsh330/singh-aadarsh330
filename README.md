@@ -180,6 +180,6 @@ KIIT University | 2022 - 2026 (Expected)
 
 **Show some ❤️ by starring my repositories!**
 
-![Visitor Count](https://profile-counter.glitch.me/singh-aadarsh330/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=singh-aadarsh330&style=flat-square)
 
 </div>
