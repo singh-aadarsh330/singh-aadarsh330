@@ -13,15 +13,17 @@
 ## 🧠 DSA Journey
 
 **Platform Progress:**
-- 📊 **GeeksforGeeks:** 180+ problems solved
-- 🎯 **Current Focus:** Binary Search & Arrays
-- 📈 **Daily Practice:** 3-5 problems/day
+- 📊 **GeeksforGeeks:** 200+ problems solved
+- 🏆 **Coding Score:** 538
+- 🎯 **Institute Rank:** #330
+- 📈 **Daily Practice:** Consistent problem-solving streak
 - 💡 **Approach:** Understand → Code → Optimize
 
 **Problem Distribution:**
-- ✅ Easy: 80+ problems
-- 🔥 Medium: 75+ problems  
-- 🎖️ Hard: 20+ problems
+- ✅ Basic: 50+ problems
+- 🔥 Easy: 90+ problems  
+- 💪 Medium: 55+ problems
+- 🎖️ Hard: 5+ problems
 
 ---
 
@@ -49,15 +51,44 @@
 My comprehensive DSA practice repository with organized solutions and detailed documentation.
 
 **Topics Covered:**
-- ✅ Arrays (with Matrix problems)
-- ✅ Binary Search (patterns & applications)
-- 🔄 More topics being added as I learn
+- ✅ **Linked Lists** - Single, Doubly, Circular (55+ problems)
+- ✅ **Arrays** - Sorting, Searching, Manipulation (65+ problems)
+- ✅ **Strings** - Pattern matching, Palindromes, Anagrams (25+ problems)
+- ✅ **Stacks & Queues** - Implementation & Applications (10+ problems)
+- ✅ **Binary Search** - Various patterns & applications (15+ problems)
+- ✅ **Matrix Problems** - 2D array operations (10+ problems)
+- 🔄 More advanced topics being added
 
 **What makes it special:**
 - ✨ Clean, well-documented code
 - 📖 Detailed READMEs per topic with patterns
 - 🎯 Pattern-based learning approach
 - 💡 Interview-ready solutions
+- 🏆 Problems ranging from Basic to Hard difficulty
+
+---
+
+## 🎯 Problem-Solving Highlights
+
+**Linked Lists Mastery:**
+- Reverse operations (single, alternate nodes, group reverse)
+- Loop detection and removal
+- Merge operations (sorted lists, K lists, flattening)
+- Advanced operations (add numbers, palindrome check, intersection)
+
+**Array & String Expertise:**
+- Kadane's Algorithm & Maximum Product Subarray
+- Two Pointer & Sliding Window techniques
+- Stock Buy-Sell problems (single & multiple transactions)
+- String manipulation & pattern matching
+- Longest Common Prefix & Palindromes
+
+**Advanced Topics:**
+- Trapping Rain Water
+- Next Greater/Smaller Element
+- Matrix operations (rotation, spiral traversal, search)
+- Greedy algorithms (Minimum Platforms, Minimum Jumps)
+- Dynamic Programming basics
 
 ---
 
@@ -69,12 +100,13 @@ My comprehensive DSA practice repository with organized solutions and detailed d
 📝 Total Commits:      15+
 📂 Repositories:       2
 💻 Primary Language:   Java (100%)
-🎯 Problems Added:     Starting transfer of 180+ solutions
+🎯 Problems Documented: Transferring 200+ solutions
+⭐ Coding Score:       538 on GeeksforGeeks
 ```
 
 **Weekly Goals:**
-- [ ] Add 3-4 new topics
-- [ ] Document 50+ problems
+- [ ] Add 4-5 new topics
+- [ ] Document 60+ problems
 - [ ] Daily commits maintained
 - [ ] Create first Java project
 
@@ -83,13 +115,16 @@ My comprehensive DSA practice repository with organized solutions and detailed d
 ## 🎯 Current Goals
 
 **Short-term (Next 3 months):**
-- [ ] Document 300+ DSA problems on GitHub
-- [ ] Master core DS: Arrays, Linked Lists, Trees, Graphs
+- [ ] Document all 200+ DSA problems on GitHub
+- [ ] Reach 300+ problems on GFG
+- [ ] Improve Institute Rank to Top 200
+- [ ] Master Trees and Graphs
 - [ ] Build 2-3 Java projects
 - [ ] Contribute to open source
 
 **Long-term (6 months):**
-- [ ] Complete 500+ problems
+- [ ] Complete 500+ problems across platforms
+- [ ] Achieve Coding Score 700+
 - [ ] Secure SDE internship
 - [ ] Develop full-stack skills
 - [ ] Build comprehensive project portfolio
@@ -98,20 +133,25 @@ My comprehensive DSA practice repository with organized solutions and detailed d
 
 ## 🌱 Currently Learning
 
-- ✅ Advanced Array techniques
-- 🔄 Binary Search patterns
-- 📚 Tree traversals
-- 🎯 Dynamic Programming (planned)
+- ✅ Advanced Linked List techniques
+- ✅ Array manipulation & optimization
+- 🔄 Tree traversals & BST operations
+- 🔄 Graph algorithms (BFS, DFS)
+- 📚 Dynamic Programming patterns
+- 🎯 Greedy algorithms
 - 🌐 Web Development basics
 
 ---
 
 ## 🏆 Achievements
 
-- ✅ Solved 180+ DSA problems on GeeksforGeeks
+- ✅ Solved 200+ DSA problems on GeeksforGeeks
+- ✅ Achieved Coding Score of 538
+- ✅ Institute Rank #330
 - ✅ Consistent daily practice streak
+- ✅ Strong foundation in Linked Lists & Arrays
 - ✅ Building organized GitHub repository
-- ✅ Strong foundation in Java and OOP
+- ✅ Mastered multiple problem-solving patterns
 
 ---
 
@@ -160,6 +200,22 @@ KIIT University | 2022 - 2026 (Expected)
 - 🔄 **Regular revision** - Revisit problems to solidify concepts
 - 🤝 **Share knowledge** - Document learnings for the community
 - 📈 **Track progress** - Maintain organized records
+- 🎯 **Pattern recognition** - Focus on problem-solving patterns
+
+---
+
+## 📈 Progress Tracker
+
+**Problem Categories Mastered:**
+- ✅ Basic Operations (50+ problems)
+- ✅ Linked List Operations (55+ problems)
+- ✅ Array Manipulations (65+ problems)
+- ✅ String Processing (25+ problems)
+- ✅ Stack & Queue (10+ problems)
+- ✅ Binary Search Variations (15+ problems)
+- ✅ Matrix Operations (10+ problems)
+- 🔄 Trees & Graphs (in progress)
+- 🔄 Dynamic Programming (planned)
 
 ---
 
@@ -169,6 +225,7 @@ KIIT University | 2022 - 2026 (Expected)
 - 💪 Never miss a day of problem-solving
 - 📚 Love explaining complex algorithms simply
 - 🚀 Believe in building in public
+- 🏆 Proud of consistent improvement in coding score
 
 ---
 
