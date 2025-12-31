@@ -143,16 +143,6 @@ Hard     : ████ 5+ problems
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=singh-aadarsh330&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-aadarsh330&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=singh-aadarsh330&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
 ### Activity Overview
 ```
 📅 Active Days:         10+
@@ -296,17 +286,9 @@ HTML/CSS    ████░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+*"I don't comment on the code itself because I feel that properly written code is very much self-documented."*
 
-</div>
-
----
-
-## 🎨 Profile Views Counter
-
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/singh-aadarsh330/count.svg" alt="Visitor Count" />
+**- Gary Kildall**
 
 </div>
 
@@ -319,8 +301,6 @@ HTML/CSS    ████░░░░░░░░░░░░░░░░░░�
 **"Building one commit at a time"** 🚀
 
 *Show some ❤️ by starring my repositories!*
-
-![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 ---
 
