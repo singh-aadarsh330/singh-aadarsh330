@@ -184,7 +184,7 @@ Hard     : ████ 5+ problems
 - [ ] Develop full-stack development skills
 - [ ] Build comprehensive project portfolio
 
-### Long-term (By 2028 Graduation)
+### Long-term (By 2029 Graduation)
 - [ ] Strong competitive programming profile
 - [ ] Contribute to major open source projects
 - [ ] Secure SDE role at product-based company
@@ -256,7 +256,7 @@ HTML/CSS    ████░░░░░░░░░░░░░░░░░░�
 
 **Bachelor of Technology in Computer Science & Engineering**  
 📍 KIIT University, Bhubaneswar, Odisha  
-📅 2024 - 2028 (Expected)
+📅 2025 - 2029 (Expected)
 
 **Relevant Coursework:**
 - Data Structures & Algorithms
@@ -270,10 +270,10 @@ HTML/CSS    ████░░░░░░░░░░░░░░░░░░�
 
 ## 💼 Open to Opportunities
 
-🎯 **Looking for:** Software Engineering Internships (Summer 2025 onwards)  
+🎯 **Looking for:** Software Engineering Internships (Summer 2026 onwards)  
 📍 **Location:** India | Open to Remote  
 💡 **Interests:** Backend Development, Problem Solving, System Design  
-🤝 **Available:** June 2025 onwards  
+🤝 **Available:** June 2026 onwards  
 📧 **Contact:** Available on LinkedIn
 
 ---
@@ -324,6 +324,6 @@ HTML/CSS    ████░░░░░░░░░░░░░░░░░░�
 
 ---
 
-**Last Updated:** January 2025
+**Last Updated:** January 2026
 
 </div>
