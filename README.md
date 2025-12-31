@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh-aadarsh330)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/singhaadarsh330)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your_username)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/singh_aadarsh)
 
 </div>
 
@@ -274,7 +274,7 @@ HTML/CSS    ████░░░░░░░░░░░░░░░░░░�
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh-aadarsh330)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Follow-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/singhaadarsh330)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Follow-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your_username)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Follow-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/singh_aadarsh)
 
 **📧 Email:** [Available on LinkedIn]
 
