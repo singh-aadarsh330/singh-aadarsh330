@@ -145,11 +145,11 @@ Hard     : ████ 5+ problems
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singh-aadarsh330&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=singh-aadarsh330&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singh-aadarsh330&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-aadarsh330&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singh-aadarsh330&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=singh-aadarsh330&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -184,7 +184,7 @@ Hard     : ████ 5+ problems
 - [ ] Develop full-stack development skills
 - [ ] Build comprehensive project portfolio
 
-### Long-term (By 2029 Graduation)
+### Long-term (By 2028 Graduation)
 - [ ] Strong competitive programming profile
 - [ ] Contribute to major open source projects
 - [ ] Secure SDE role at product-based company
@@ -256,7 +256,7 @@ HTML/CSS    ████░░░░░░░░░░░░░░░░░░�
 
 **Bachelor of Technology in Computer Science & Engineering**  
 📍 KIIT University, Bhubaneswar, Odisha  
-📅 2025 - 2029 (Expected)
+📅 2024 - 2028 (Expected)
 
 **Relevant Coursework:**
 - Data Structures & Algorithms
@@ -306,7 +306,7 @@ HTML/CSS    ████░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/singh-aadarsh330/count.svg)
+<img src="https://profile-counter.glitch.me/singh-aadarsh330/count.svg" alt="Visitor Count" />
 
 </div>
 
